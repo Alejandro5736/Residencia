@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Vivir mejor 2" id="AC0EB07E-530A-D137-9C7C-A5586D770C62" version="3.5">
+<createdBy>aleja</createdBy>
+<createdTime>2025-08-31 21:38:44 UTC</createdTime>
+<ownerDesignName>Vivir mejor 2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>AC0EB07E-530A-D137-9C7C-A5586D770C62</designId>
+</OSDM_Design>
